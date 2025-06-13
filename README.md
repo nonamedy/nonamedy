@@ -1,7 +1,7 @@
 
 <h2><a href="https://git.io/typing-svg" style="margin-left:30px; margin-top:9px;"><img src="https://readme-typing-svg.demolab.com?font=roboto&duration=5800&pause=1000&color=F7F7F7&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=61&lines=Ol%C3%A1%2C+Me+chamo+FJ+;Seja+Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a></h2>
 
-Sou estudante autodidata, me dedicando o máximo para viver do que amo fazer, programar.
+Sou estudante autodidata, fazendo uns projetos por diversão !
 
 <h3 align='center'>Minhas Linguagens</h3>
 
